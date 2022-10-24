@@ -1,6 +1,7 @@
   # Employee Tracker Application
 
 ## Demonstration Video
+https://clipchamp.com/watch/xJL8Hp8vwMg
 
 
 ## User Story
